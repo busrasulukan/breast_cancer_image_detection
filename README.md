@@ -1,7 +1,7 @@
 # 🔍 Breast Cancer Image Recognition with Deep Learning: An Innovative Step
 > Breast cancer is one of the most common cancers in women and early detection can save lives. Innovative technologies such as deep learning and artificial intelligence have great potential in this field. In particular, deep learning models developed for breast cancer image recognition could be a new beacon of hope.
 # Streamlit App Interface
-You can access the streamlit app video by clicking this link:
+You can access the streamlit app video by clicking this link: https://www.linkedin.com/feed/update/urn:li:ugcPost:7191835617654161408/
 ![image](https://github.com/busrasulukan/breast_cancer_image_detection/assets/129671358/92a5fa6b-7432-41ea-b7ac-9986432e5fb8)
 # Get to Know Dataset 
 > In this study, a breast cancer image recognition model was developed and used to detect cancer cells in breast tissue. By learning from color photographs of cancer cells, this model can determine whether a breast mass is cancerous or not. This could be the beginning of a new era in breast cancer diagnosis.
